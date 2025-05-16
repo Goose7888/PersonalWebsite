@@ -1,0 +1,13 @@
+/* ./tailwindcss --input input.css --output output.css */
+@import "tailwindcss";
+
+@theme
+{
+    --color-viridian: #5B8E7D;
+    --color-cambridgeblue: #83AF9E;
+    --color-brunswickgreen: #38574B;
+    --color-platinum: #E0E1DD;
+    --color-eggplant: #5E4B56;
+    --color-coffee: #815136;
+    --color-brownsugar: #BB7E5D;
+}
