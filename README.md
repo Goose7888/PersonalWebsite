@@ -2,5 +2,9 @@
 ### Presented by Trevor Clark
 
 ## Info
-This is a site hosted at <https://goose-games.com>
-This is built with html and tailwindcss.
+I aim for this page to be a source of both navigation
+for my self-hosted services and a portfolio for me to
+share projects I have worked on.
+
+<https://goose-games.com>
+
