@@ -1,3 +1,5 @@
+## Superceded by <https://github.com/Goose7888/goose-games-site>
+
 # Personal Website
 ### Presented by Trevor Clark
 
